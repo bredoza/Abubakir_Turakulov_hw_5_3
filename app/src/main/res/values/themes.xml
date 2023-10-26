@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Abubakir_Turakulov_hw_5_3" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/gray</item>
+    </style>
+
+    <style name="Theme.Abubakir_Turakulov_hw_5_3" parent="Base.Theme.Abubakir_Turakulov_hw_5_3" />
+</resources>
